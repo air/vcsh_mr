@@ -1,2 +1,2 @@
-[$HOME/.config/vcsh/repo.d/vcsh_home.git]
+[$HOME/.config/vcsh/repo.d/home.git]
 checkout = vcsh clone git@github.com:air/vcsh_home.git home
